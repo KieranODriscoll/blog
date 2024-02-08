@@ -8,4 +8,4 @@ In terms of my cyber journey, I come from a background of software development w
 
 Great to have your here on this journey! :)
 
-![](/assets/Pasted%20image%2020240208134359.png)
+![](./assets/Pasted%20image%2020240208134359.png)
