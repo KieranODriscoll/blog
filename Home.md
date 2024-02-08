@@ -1,5 +1,8 @@
 # Hello World
 
+<script src="https://tryhackme.com/badge/2661120"></script>
+<script src ="https://www.hackthebox.com/badge/image/1812521"></script>
+
 My goal is to use this site as a way to brain dump things I run into in the tech world. Whether that is self-hosting, home assistant or other things I have learned.
 
 One major aspect of this blog will be to document my journey into cybersecurity, whether that is [HackTheBox](https://www.hackthebox.com) or [TryHackMe](https://www.TryHackMe.com) walkthroughs, notetaking / documenting learning experiences of certificates or anything else related to cybersecurity.
@@ -14,5 +17,3 @@ My goals as of 2024-02-08:
 - Obtain CompTIA Security+
 - Obtain TCM PNPT and/or HTB CPTS
 - Work towards OSCP
-
-<script src="https://tryhackme.com/badge/2661120"></script>
