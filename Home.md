@@ -8,4 +8,9 @@ In terms of my cyber journey, I come from a background of software development w
 
 Great to have your here on this journey! :)
 
-![](./assets/Pasted%20image%2020240208134359.png)
+My goals as of 2024-02-08:
+- Graduate from cybersecurity graduate program.
+	- This may come with CEH and CND, while not ideal certificates, if its part of the package might as well
+- Obtain CompTIA Security+
+- Obtain TCM PNPT and/or HTB CPTS
+- Work towards OSCP
