@@ -15,4 +15,4 @@ My goals as of 2024-02-08:
 - Obtain TCM PNPT and/or HTB CPTS
 - Work towards OSCP
 
-`<script src="https://tryhackme.com/badge/2661120"></script>`
+<script src="https://tryhackme.com/badge/2661120"></script>
