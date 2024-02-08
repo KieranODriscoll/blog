@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/Yarden-zamir/obsidian-zola-plus.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
@@ -8,7 +8,7 @@ LANDING_BUTTON = "Cyber Blog"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "My journey to a Cyber career"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "./content/landing/Home.md"
+LANDING_PAGE = "./content/Home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "My Cyber Blog"
 PYTHON_VERSION = "3.8"
@@ -26,7 +26,7 @@ ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
 # (Optional, default true) Slugify URLs. Put "" to disable.
-SLUGIFY = "y"
+SLUGIFY = ""
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
