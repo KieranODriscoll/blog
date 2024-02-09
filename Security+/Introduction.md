@@ -12,7 +12,7 @@ Throughout this whole process, I will be adding notes based off of Professor Mes
 Credit to Professor Messer for the great notes and videos on the Security+ Exam.
 
 # Sections
-- Attacks, Threats and Vulnerabilities - 1.1
+- ## Attacks, Threats and Vulnerabilities - 1.1
 	-  [1.1a - Phishing](1.1a%20-%20Phishing.md) 
 	-  [1.1b - Impersonation](1.1b%20-%20Impersonation.md) 
 	-  [1.1c - Dumpster Diving](1.1c%20-%20Dumpster%20Diving.md)
@@ -30,7 +30,7 @@ Credit to Professor Messer for the great notes and videos on the Security+ Exam.
 	- [1.2e - Rootkits](1.2e%20-%20Rootkits.md)
 	- [1.2f - Spyware](1.2f%20-%20Spyware.md)
 	- [1.2g - Bots and Botnets](1.2g%20-%20Bots%20and%20Botnets.md)
-- Attacks, Threats and Vulnerabilities - 1.2
+- ## Attacks, Threats and Vulnerabilities - 1.2
 	- [1.2a - Overview of Malware](1.2a%20-%20Overview%20of%20Malware.md)
 	- [1.2b - Viruses and Worms](1.2b%20-%20Viruses%20and%20Worms.md)
 	- [1.2c - Ransomware and Crypto-malware](1.2c%20-%20Ransomware%20and%20Crypto-malware.md)
