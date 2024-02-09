@@ -13,10 +13,11 @@ Credit to Professor Messer for the great notes and videos on the Security+ Exam.
 
 # Sections
 - ## Attacks, Threats and Vulnerabilities - 1.1
-	-  [1.1a - Phishing](1.1a%20-%20Phishing.md)
-	-  [1.1b - Impersonation](1.1b%20-%20Impersonation.md)
-	-  [1.1c - Dumpster Diving](1.1c%20-%20Dumpster%20Diving.md)
-	-  [1.1d - Shoulder Surfing](1.1d%20-%20Shoulder%20Surfing.md)
+	- [1.1a - Phishing](1.1a%20-%20Phishing.md)
+	- [[1.1a - Phishing]]
+	- [1.1b - Impersonation](1.1b%20-%20Impersonation.md)
+	- [1.1c - Dumpster Diving](1.1c%20-%20Dumpster%20Diving.md)
+	- [1.1d - Shoulder Surfing](1.1d%20-%20Shoulder%20Surfing.md)
 	- [1.1e - Hoaxes](1.1e%20-%20Hoaxes.md)
 	- [1.1f - Watering Hole Attacks](1.1f%20-%20Watering%20Hole%20Attacks.md)
 	- [1.1g - Spam](1.1g%20-%20Spam.md)

@@ -1,9 +1,8 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
-GRAPH_LINK_REPLACE = "y"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Enter"
 # (Optional) Site description on landing page
@@ -32,7 +31,6 @@ SLUGIFY = "y"
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
-LOCAL_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = "y"
 # (Optional, default blank) Additional footer content.
