@@ -1,6 +1,6 @@
 # Hello World
 
-<p algin="middle"><script src="https://tryhackme.com/badge/2661120"></script><script src="https://www.hackthebox.com/badge/1812521"></script></p>
+<p align="middle"><script src="https://tryhackme.com/badge/2661120"></script><script src="https://www.hackthebox.com/badge/1812521"></script></p>
 <br>
 My goal is to use this site as a way to brain dump things I run into in the tech world. Whether that is self-hosting, home assistant or other things I have learned.
 
