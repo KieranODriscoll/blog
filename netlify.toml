@@ -3,6 +3,7 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
+GRAPH_LINK_REPLACE = "y"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Enter"
 # (Optional) Site description on landing page
@@ -38,7 +39,6 @@ SIDEBAR_COLLAPSED = "y"
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "Root"
-GRAPH_LINK_REPLACE = "y"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
