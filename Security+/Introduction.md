@@ -31,6 +31,12 @@ Credit to Professor Messer for the great notes and videos on the Security+ Exam.
 	- [1.2e - Rootkits](./attacks-threats-and-vulnerabilities/1.2e-Rootkits.md)
 	- [1.2f - Spyware](./attacks-threats-and-vulnerabilities/1.2f-Spyware.md)
 	- [1.2g - Bots and Botnets](./attacks-threats-and-vulnerabilities/1.2g-Bots-and-Botnets.md)
+	- [1.2h - Logic Bombs](./attacks-threats-and-vulnerabilities/1.2h-Logic-Bombs.md)
+	- [1.2i - Password Attacks](./attacks-threats-and-vulnerabilities/1.2i-Password-Attacks.md)
+	- [1.2j - Physical Attacks](./attacks-threats-and-vulnerabilities/1.2j-Physical-Attacks.md)
+	- [1.2k - Adversarial Artificial Intelligence](./attacks-threats-and-vulnerabilities/1.2k-Adversarial-Artificial-Intelligence.md)
+	- [1.2l - Supply Chain Attacks](./attacks-threats-and-vulnerabilities/1.2l-Supply-Chain-Attacks.md)
+	- [1.2m - Cryptographic Attacks](./attacks-threats-and-vulnerabilities/1.2m-Cryptographic-Attacks.md)
 
   
 
