@@ -36,7 +36,8 @@ Credit to Professor Messer for the great notes and videos on the Security+ Exam.
 	- [1.2j - Physical Attacks](./attacks-threats-and-vulnerabilities/1.2j-Physical-Attacks.md)
 	- [1.2k - Adversarial Artificial Intelligence](./attacks-threats-and-vulnerabilities/1.2k-Adversarial-Artificial-Intelligence.md)
 	- [1.2l - Supply Chain Attacks](./attacks-threats-and-vulnerabilities/1.2l-Supply-Chain-Attacks.md)
-	- [1.2m - Cryptographic Attacks](./attacks-threats-and-vulnerabilities/1.2m-Cryptographic-Attacks.md)
+	- [1.2m - Cloud-based vs On-Premises Attacks](./attacks-threats-and-vulnerabilities/1.2m-Cloud-based-vs-On-Premises-Attacks.md)
+	- [1.2n - Cryptographic Attacks](./attacks-threats-and-vulnerabilities/1.2n-Cryptographic-Attacks.md)
 
   
 
